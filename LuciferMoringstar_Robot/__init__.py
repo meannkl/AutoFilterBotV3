@@ -28,14 +28,13 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  MALLU MOVIE BOT
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [Naughty PROFESSOR](@Yadhukri)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Tutorial : [Click Me](https://t.me/joinchat/6t_BgYz1nIdkOGI1)
 """
